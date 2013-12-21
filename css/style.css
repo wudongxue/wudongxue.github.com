@@ -67,7 +67,7 @@ font-family: Georgia,"Times New Roman",Times,"Kai","Kaiti SC","KaiTi","BiauKai",
 
 
 
-@media all and (max-device-width: 480px) and (orientation: portrait) {
+/*@media all and (max-device-width: 480px) and (orientation: portrait) {
     .home-bg {
         height: 100%;
     }
@@ -94,7 +94,7 @@ font-family: Georgia,"Times New Roman",Times,"Kai","Kaiti SC","KaiTi","BiauKai",
         font-size: 64px;
     }
 }
-
+*/
 
 
 .feature{
