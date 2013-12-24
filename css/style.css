@@ -1,9 +1,8 @@
 body {
     background: #F3F3F3;
-    font-family:"Microsoft YaHei","微软雅黑",arial,simsun,"宋体",Georgia, serif;
+    font-family: "Microsoft YaHei","微软雅黑",arial,simsun,"宋体",Georgia, serif;
     margin: 0;
 }
-
 
 .home-bg {
     height: 632px;
@@ -33,30 +32,24 @@ body {
     text-align: center;
 }
 
-.splash h1{
-color: #FFF;
+.splash h1 {
+    color: #FFF;
     font-size: 60px;
+    font-family: Georgia,"Times New Roman",Times,"Kai","Kaiti SC","KaiTi","BiauKai","楷体","楷体_GB2312",serif;
+}
 
-font-family: Georgia,"Times New Roman",Times,"Kai","Kaiti SC","KaiTi","BiauKai","楷体","楷体_GB2312",serif;
-}
 .splash .download {
-    margin-top: 20px; 
+    margin-top: 20px;
 }
+
 .splash img.download {
     width: 250px;
     height: 75px;
 }
 
-
-
-
-
-
 .splash .social {
     margin: 20px 0 0 150px;
 }
-
-
 
 .tag-line {
     color: #fff;
@@ -97,21 +90,18 @@ font-family: Georgia,"Times New Roman",Times,"Kai","Kaiti SC","KaiTi","BiauKai",
 */
 
 
-.feature{
-
-background: #FFFFFF;
-
-   margin-left: 80px;
-margin-right: 80px;
-display: block;
-min-width: 900px;
-padding-top: 50px;
+.feature {
+    background: #FFFFFF;
+    margin-left: 80px;
+    margin-right: 80px;
+    display: block;
+    min-width: 900px;
+    padding-top: 50px;
 }
 
-
-.feature .featureItem{
+.feature .featureItem {
     display: block;
-    margin-top:-35px;
+    margin-top: -35px;
     margin-bottom: 10px;
     height: 310px;
     margin-left: 200px;
@@ -121,68 +111,88 @@ padding-top: 50px;
 }
 
 .feature .featureItem .featureNote {
-margin: 60px;
-width: 280px;
+    margin: 60px;
+    width: 280px;
 }
 
-.feature .featureItem .featureNote h3{
-font-size: 30px;
-font-weight: normal;
-font-family: Georgia,"Times New Roman",Times,"Kai","Kaiti SC","KaiTi","BiauKai","楷体","楷体_GB2312",serif;
+.feature .featureItem .featureNote h3 {
+    font-size: 30px;
+    font-weight: normal;
+    font-family: Georgia,"Times New Roman",Times,"Kai","Kaiti SC","KaiTi","BiauKai","楷体","楷体_GB2312",serif;
 }
 
-
-.feature .featureItem .featureNote p{
-font-size: 18px;
-color: #777;
-line-height: 15px;
+.feature .featureItem .featureNote p {
+    font-size: 18px;
+    color: #777;
+    line-height: 15px;
 }
 
 .feature .featureItem.imgLeft .featureImg {
-float: left;
-display: block;
+    float: left;
+    display: block;
 }
 
 .feature .featureItem.imgLeft .featureNote {
-float: left;
-display: block;
+    float: left;
+    display: block;
 }
 
 .feature .featureItem.imgRight .featureImg {
-float: right;
-display: block;
+    float: right;
+    display: block;
 }
 
 .feature .featureItem.imgRight .featureNote {
-float: right;
-display: block;
-}
-
-.feature .featureItem .featureImg img{
+    float: right;
     display: block;
-    width:200px;
-    height: 300px;
 }
 
-.footer{
-  
-position: relative;
+.feature .featureItem .featureImg img {
+    display: block;
+    width: 200px;
+    height: 300px;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    transition: 1s;
+ /*   -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;*/
+}
+
+.feature .featureItem .featureImg img:hover {
+    -webkit-box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+    -moz-box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+    box-shadow: 0 0 20px rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
+    -webkit-border-radius: 60em;
+    -moz-border-radius: 60em;
+    border-radius: 60em;
+}
+
+.footer {
+    position: relative;
 /*background: #ececec;*/
-text-align: center;
+    text-align: center;
 }
 
 .copyright {
-width: 750px;
-margin: 0 auto;
-position: relative;
-margin-top: 50px;
-margin-bottom: 50px;
-color: #797979;
+    width: 750px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #797979;
 }
+
 .copyright p {
-margin-bottom: 10px;
+    margin-bottom: 10px;
 }
+
 .copyright a, .copyright a:link, .copyright a:visited {
-color: #797979;
- text-decoration:none;
+    color: #797979;
+    text-decoration: none;
+}
+
+.wdx_code {
+    line-height: 10px;
+    background-color: #000000;
 }

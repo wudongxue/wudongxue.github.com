@@ -1,0 +1,38 @@
+/*
+designed by yilee 
+shikailun@bjtu.edu.cn
+,,,,..,.,,,..,,+?++=~=+=+++++++++?????=,,,,,,,,:,,,,::~?+I~~
+,,,,,,,,.,,.,,???++~:=+??+++??+??????II?,,,,,,,,,,,::~7=?~~+
+,,,,,,,.,,,,,?II?==::=+?+?+???????III77II:,,,:,,:,~:~7$~=~?I
+:,,,,,:,,,,,?III++~:,:++???II?IIIIIII77777:,::::::~~?7~~+?II
+::,,,,,:,,,:777I===::::~=~=++?+I7I77777$7$I::,::~~~~~~~II?II
+:,,,::,:,::I77$?==~:,,,,::::~===?77777$$$$$~:::~~~~~~~~~====
+,,,,,:::,::7$77?~::,,,,,,,,,~=+++?7$7$7$$$$Z::::::~::~==++++
+::::::,:::,7Z77++?++=::,,::::~:,:::=7$$$Z$$Z$::::::::::::::~
+:~,:::,::~I7Z$7?:::~:~:::::~~::,~~~==?ZZZZZZZ=::::::::::~:::
+,::,::::,:$ZZ$7:::,:~:::,,:~~~II7II?==+$ZZZ$$$~:::::::::::::
+::,:,,:,,:7ZZZ7=~+$7$+~:,:~~:?=??=~~:~~7O$Z7$Z~:::::::::::::
+:::,,::,::$OZZ7++==7+~~::::~::::::::::~+OZZ$7O7::::::~::::::
+::~::,,:::ZZZZI~::::::::,:~~~:::::::::~+ZOZ$$OO:,:::::::::::
+::::::,,:=ZOOZI~::::::::,,:~=~:::::::~=?ZOOZOOO~:::::::,::::
+:::::::::~OO8O?:::::::::,,:~=+~::::~~=+7ZOOOOOO?::::::::,:,,
+:::~:::::?OO8O$~::::,~=:::~+==+~::~~~+?7$OOZ88OZ,::,:,,,:,,,
+~:~~~~~~~+OO88O+~::::~:=~~===~~~~~=~=+?7Z8OO88OZ~::,,,,:,,,.
+~~~~~~~~=+OOO887=~:::::::::::~~=~~=~=?I$OOOO8OOO7::,:,,,....
+====+====?OO88O8?~~~:=~~~==?+?I77=~=+?77OOOO88O8Z=:,:,......
+++==+=+=+I8O88O88+~~~+=?=====+?+=~=??I$ZOO8O8888OI~:~:,...,:
+++?????++78O888D8D=~~~~~~~=++++=++??I$888O888888OOI=~:::::~~
+?????????I8O8888DDD?+~~~~~====++++I7Z8DO8888888D88O7+~~~~~=~
+I7IIII?II$8OO8ODDDD8D?=~~~~~~==?+I$ZO8O8888D8DD8888DO$++====
+777777777$88O8ODDDDDDDD?~===????7$$$ZZ8O888DD8DD8DD8D8$I?+?+
+$$$$77$$$$888888DDDDDDDDI??II77777IIZZO88DD8DDDDDDD8888ZZ$?I
+7777777$$ZO88888DNDDNDDDO+?++??????I$$D88DD8DDDDDDD8DDDOO8Z$
+......,~?ZDZD8D8DDDD8O$O8+===++++=+?IO8D8DD88DDDDDDDDDD8D8OO
+,::::::::8$O8DD8DDOOOZ8$NZ====+===+?IO88ZD8$7I888DDDD8DDDD8D
+::~:~~==,7OZO8888DI7DI?7DO+==+==~+?IO888D$II7OOO88ODDDZDDDDD
+?????+?=DZDO88DNNO7?8+$$DZI==I===+IDZZDO+?++7IZNZ?DDND88DDDD
+:,,,,,:I:O8O88DNND~+7~=ODZI+=====7~=$I~?++?DOID$~DNDDDD8DODN
+::~~:~~:+D8DDDDNNN::~I:DO7I===+==~?=8=?I$N8=~D8=7DNDNDNDDD8D
+*/
+body{background:#F3F3F3;font-family:"Microsoft YaHei","微软雅黑",arial,simsun,"宋体",Georgia,serif;margin:0;}.home-bg{height:632px;background:#FFCFD7;background:-moz-linear-gradient(-45deg,#FFCFD7 0%,#E86790);background:-webkit-gradient(linear,left top,right bottom,color-stop(0%,#FFCFD7),color-stop(100%,#E86790));background:-webkit-linear-gradient(90deg,#FFCFD7,0%,#E86790);background:-ms-linear-gradient(90deg,#FFCFD7 0%,#E86790);background:linear-gradient(90deg,#FFCFD7 0%,#E86790);position:absolute;top:0;left:0;width:100%;}.splash{width:750px;height:707px;margin:0 auto;position:relative;background:url(../images/iphone2.png) 0 15px no-repeat;padding:100px 0 0 300px;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;text-align:center;}.splash h1{color:#FFF;font-size:60px;font-family:Georgia,"Times New Roman",Times,"Kai","Kaiti SC","KaiTi","BiauKai","楷体","楷体_GB2312",serif;}.splash .download{margin-top:20px;}.splash img.download{width:250px;height:75px;}.splash .social{margin:20px 0 0 150px;}.tag-line{color:#fff;font-size:26px;font-weight:normal;}.feature{background:#FFFFFF;margin-left:80px;margin-right:80px;display:block;min-width:900px;padding-top:50px;}.feature .featureItem{display:block;margin-top:-35px;margin-bottom:10px;height:310px;margin-left:200px;margin-right:200px;min-width:600px;}.feature .featureItem .featureNote{margin:60px;width:280px;}.feature .featureItem .featureNote h3{font-size:30px;font-weight:normal;font-family:Georgia,"Times New Roman",Times,"Kai","Kaiti SC","KaiTi","BiauKai","楷体","楷体_GB2312",serif;}.feature .featureItem .featureNote p{font-size:18px;color:#777;line-height:15px;}.feature .featureItem.imgLeft .featureImg{float:left;display:block;}.feature .featureItem.imgLeft .featureNote{float:left;display:block;}.feature .featureItem.imgRight .featureImg{float:right;display:block;}.feature .featureItem.imgRight .featureNote{float:right;display:block;}.feature .featureItem .featureImg img{display:block;width:200px;height:300px;-webkit-transition:1s;-moz-transition:1s;transition:1s;}.feature .featureItem .featureImg img:hover{-webkit-box-shadow:0 0 20px rgba(255,255,255,.6),inset 0 0 20px rgba(255,255,255,1);-moz-box-shadow:0 0 20px rgba(255,255,255,.6),inset 0 0 20px rgba(255,255,255,1);box-shadow:0 0 20px rgba(255,255,255,.6),inset 0 0 20px rgba(255,255,255,1);-webkit-border-radius:60em;-moz-border-radius:60em;border-radius:60em;}.footer{position:relative;text-align:center;}.copyright{width:750px;margin:0 auto;position:relative;margin-top:50px;margin-bottom:50px;color:#797979;}.copyright p{margin-bottom:10px;}.copyright a,.copyright a:link,.copyright a:visited{color:#797979;text-decoration:none;}.wdx_code{line-height:10px;background-color:#000000;}
+#facybox .n{background-image:url('../images/fancy_shadow_n.png');}#facybox .s{background-image:url('../images/fancy_shadow_s.png');}#facybox .w{background-image:url('../images/fancy_shadow_w.png');}#facybox .e{background-image:url('../images/fancy_shadow_e.png');}#facybox .nw{background-image:url('../images/fancy_shadow_nw.png');}#facybox .ne{background-image:url('../images/fancy_shadow_ne.png');}#facybox .sw{background-image:url('../images/fancy_shadow_sw.png');}#facybox .se{background-image:url('../images/fancy_shadow_se.png');}#facybox a.next{background-image:url('../images/fancy_right.png');}#facybox a.prev{background-image:url('../images/fancy_left.png');}#facybox .close{background-image:url('../images/fancy_closebox.png');}#facybox .loading{background-image:url('../images/loading.gif');}#facybox{position:absolute;top:0;left:0;margin:-20px 0 0 -20px;z-index:100;text-align:left;padding:18px;min-width:40px;min-height:40px;}#facybox .w,#facybox .e,#facybox  .nw,#facybox .ne,#facybox .sw,#facybox .se{min-height:18px;min-width:13px;}#facybox .n,#facybox .s{background-repeat:repeat-x;height:18px;}#facybox .w,#facybox .e{background-repeat:repeat-y;}#facybox .nw,#facybox .ne,#facybox .sw,#facybox .se,#facybox a.next,#facybox a.prev,#facybox .closek #facybox .loading{background-repeat:no-repeat;}#facybox a.next{background-position:9999px 50%;}#facybox a.prev{background-position:-9999px 50%;}#facybox a.prev:hover{background-position:0 50%;}#facybox a.next:hover{background-position:100% 50%;}#facybox .close{position:absolute;top:5px;right:0;display:block;width:30px;height:30px;}#facybox .prev,#facybox .next{display:block;position:absolute;cursor:pointer;}#facybox .navigation .counter{background:#000;color:#fff;text-align:center;position:absolute;bottom:-33px;left:-10px;padding:2px 0;font-size:11px;}#facybox .loading{margin:0 auto;width:22px;height:22px;text-align:center;}#facybox .popup{position:relative;}#facybox table{border-collapse:collapse;}#facybox td{border-bottom:0;padding:0;}#facybox .body{padding:10px;background:#fff;width:auto;}#facybox .loading{text-align:center;}#facybox .image{text-align:center;line-height:0;}#facybox img{border:0;margin:0;}#facybox .footer{position:absolute;top:28px;left:23px;padding:0;width:90%;}#facybox .footer img{vertical-align:middle;}#facybox .tl,#facybox .tr,#facybox .bl,#facybox .br{height:10px;width:10px;overflow:hidden;padding:0;}#facybox_overlay{position:fixed;top:0px;left:0px;height:100%;width:100%;}.facybox_hide{z-index:-100;}.facybox_overlayBG{background-color:#000;z-index:99;}
